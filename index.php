@@ -1,3 +1,7 @@
+<!--
+    This is simple index page with simple html markup
+ -->
+
 <html>
     <head>
         <meta charset="utf-8">

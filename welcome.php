@@ -1,6 +1,9 @@
+<!--
+    Do you really need the comments for this page ! ? ! ?
+ -->
+
 <html>
     <head>
-        <meta charset="utf-8">
         <title>Welcome</title>
     </head>
     <body>
